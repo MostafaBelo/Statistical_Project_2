@@ -1,0 +1,4 @@
+n is small, high variance, overfitting
+outliers, high bias, underfitting
+bad estimators
+false representative sample
